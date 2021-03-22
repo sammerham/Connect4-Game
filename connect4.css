@@ -32,3 +32,13 @@
 #column-top td:hover {
   background-color: gold;
 }
+
+
+#game{
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  text-align: center;
+}
